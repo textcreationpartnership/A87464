@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King James his divine prophecie, of the vvarres and distractions of the present and future times, in relation to the two witnesses their coming downe from Heaven, fighting, and how slaine by Antichrist, and being again risen in imitation of Christ, and cloathed in sackcloth, they work miracles and wonders, such as we have seen some already. / Written by King James. Published according to order.</title>
+            <author>James I, King of England, 1566-1625.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87464</idno><idno type="EEBO-CITATION">99868898</idno>
+  <idno type="VID">159491</idno>
+  <idno type="EEBO-PROQUEST">2240953412</idno>
+  
+            <idno type="STC">Wing J134</idno>
+            <idno type="STC">Thomason E274_10</idno>
+            <idno type="STC">ESTC R210067</idno>
+            <idno type="PROQUEST">99868898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868898e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 45:E274[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King James his divine prophecie, of the vvarres and distractions of the present and future times, in relation to the two witnesses their coming downe from Heaven, fighting, and how slaine by Antichrist, and being again risen in imitation of Christ, and cloathed in sackcloth, they work miracles and wonders, such as we have seen some already. / Written by King James. Published according to order.</title>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Austin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An allegorical interpretation, in which the two witnesses are either "the word of God it self, [or] the word of God .. in the mouths of his preachers." (page 6).</note>
+                  <note>Annotation on Thomason copy: "March 20th 1644"; the 5 in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apocalyptic literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159491:1"/>
+            <p> KING JAMES HIS Divine Prophecie, OF THE VVarres and Distractions of the present and future Times, IN Relation to the two Witnesses their coming downe from Heaven, fighting, and how slaine by Antichrist, and being again risen in imitation of Christ, and cloathed in sackcloth, they work miracles and wonders, such as we have seen some already.</p>
+            <p>
+               <hi>Written by King JAMES.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON, Printed for</hi> R. Austin. 1645.</p>
+            <pb facs="tcp:159491:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:159491:2"/>
+            <head>King JAMES His divine Prophecie of the VVarres and Distractions of the present and future Times, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow this can stand with any point of Divinity, or like<g ref="char:EOLhyphen"/>lihood in reason, that these two glorious bodies <hi>Enoch,</hi> and <hi>Eliah,</hi> shall come downe out of <hi>Heaven,</hi> or <hi>Paradise,</hi> (make it what you will) preach, and fight against <hi>The Antichrist,</hi> be sleine by him, after many thousand years exemption from the naturall course of death, rise again the third day, in imitation of <hi>Christ,</hi> and then (having wrought many wonders) to go up again to Heaven, making an ordinary past between Hea<g ref="char:EOLhyphen"/>ven and Earth, how this (I say) can agree with Divinity or Reason, I confesse, it passeth my capacity: and especially, that they must be clad in sackcloth, whose bodies (I hope) have been so long ago so free from sin, as I think they shall need no more such maceration for sinne. For they must be now either in <hi>Heaven,</hi> or <hi>Paradise,</hi> if in Hea<g ref="char:EOLhyphen"/>ven (as doubtlesse they are) their bodies must be glorified, for no cor<g ref="char:EOLhyphen"/>ruptible thing can enter there; and consequently they can no more be subject to the sensible things of this world, especially to death, but if they be in earthly <hi>Paradise,</hi> we must know first where it is.</p>
+            <p>
+               <hi>Bellarmine</hi> indeed in his controversie, <hi>(Lib. de Grat. primi hominis)</hi> it much troubled to finde out the place where <hi>Paradise</hi> is, and whether it be in the earth or in the ayre. But these are all vanities: The Scrip<g ref="char:EOLhyphen"/>tures tell us that <hi>Paradise</hi> and the Garden of <hi>Eden</hi> therein, was a cer<g ref="char:EOLhyphen"/>tain place upon the Earth, which God chose out to set <hi>Adam</hi> into; and having there after for his sin banished him from the same, it is a blasphemy to think, that any of <hi>Adams</hi> posterity came ever there again: For in <hi>Adam</hi> were all his posterity accursed, and banished from the earthly <hi>Paradise,</hi> like as all the earth in generall, and <hi>Paradise</hi> in spe<g ref="char:EOLhyphen"/>ciall, were accursed in him; the second <hi>Adam</hi> having by grace, called
+<pb n="2" facs="tcp:159491:3"/> a certaine number of them to be co-heritors with him of the heaven<g ref="char:EOLhyphen"/>ly <hi>Paradise,</hi> and <hi>Hierusalem.</hi> And doubtlesse, the earthly <hi>Paradise</hi> was defaced at the Flood, if not before: and so lost all that exquisite fer<g ref="char:EOLhyphen"/>tility and pleasantnesse, wherein it once surpassed all the rest of the earth. And that it should be lifted up in the ayre, is like one of the dreames of the <hi>Alcoran.</hi> Surely no such miracle is mentioned in the Scripture, and hath no ground, but from the curious fancies of some boyling braines, who cannot be content <hi>Sapere ad sobrietatem.</hi>
+            </p>
+            <p>In Heaven then for certaine are <hi>Enoch,</hi> and <hi>Eliah:</hi> for <hi>Enoch</hi> (saith the Text) <hi>walked with God and was taken up, Gen.</hi> 5. 24. and <hi>Eliah</hi> was seen carried up to Heaven in a fiery chariot, 2 <hi>King.</hi> 2. 11, 10. And that they who have been the in-dwellers of Heaven these many thousand yeares, and are freed from the lawes of mortality; that these glorious and incorruptible bodies (I say) shall come in the world again, preach and worke miracles, and fight against <hi>The Antichrist,</hi> be slaine by him, whom naturall death could not before take hold of, as it is a fabulous invention, so is it quite contrary to the nature of such sancti<g ref="char:EOLhyphen"/>fied creatures, especially I wonder why <hi>Enoch</hi> should be thought to be one of these two Witnesses for <hi>Christ.</hi> For it was <hi>Moses</hi> and <hi>Eliah</hi> that were with <hi>Christ</hi> at the transfiguration, signifying the Law, and the Prophets, which would be the fittest Witnesses for convincing of Antichrist. But why they have exempted <hi>Moses,</hi> and put <hi>Enoch's</hi> head in the yoke; I cannot conceive. But I have too much laboured in the refuting of this foolish, and indeed childish fable; which I am so farre from believing in any sort, as I protest in Gods presence, I cannot hold any learned Divine (in our age now) to be a christian that will believe it, but worthy to be ranked with the Scribes and Pharisees, that raved, and dreamed upon the coming againe of <hi>Eliah;</hi> though <hi>Christ</hi> told them the contrary. As for some of the Antients that mistook this matter. I do not censure them so hardly.</p>
+            <p>And having now refuted that idle fable; that these two Witnesses were <hi>Enoch,</hi> and <hi>Eliah:</hi> it falleth me next to guesse, what in my o<g ref="char:EOLhyphen"/>pinion should be meant by them. I confesse it is farre easier to confute such a groundlesse fable as this is, contrary to all grounds of Divinity and Reason, then to set down a true interpretation, of so high and dark a mistery. And therefore as I will not presume to bind any other man
+<pb n="3" facs="tcp:159491:3"/> to my opinion herein, if his own reason lead him not thereunto, so shall I propound such probable conjectures, as (I hope) shall be free from heresie, or unlawfull curiosity.</p>
+            <p>In two divers fashions may the mistery of these Witnesses be law<g ref="char:EOLhyphen"/>fully and probably interpeted, in my opinion: whereof the one is, that by these two Witnesses should be meant the Old and New <hi>Testa<g ref="char:EOLhyphen"/>ments.</hi> For as the <hi>Antichrist</hi> cannot choose but be an adversary to the Word of God above all things; so will he omit no indeavour to dis<g ref="char:EOLhyphen"/>grace, corrupt, suppresse, and destroy the same. And now whether this Booke of the two <hi>Testaments,</hi> or two Witnesses of <hi>Christ,</hi> have suffered any violence by the <hi>Babylonian Monarchy,</hi> or not, I need say nothing; <hi>Res ipsa loquitur.</hi> I will not weary you with recounting those common places used for disgracing it, as calling it a <hi>nose</hi> of <hi>wax,</hi> a <hi>dead letter,</hi> a <hi>leaden rule,</hi> and a hundred such like phrases of reproach: but how farre the traditions of men, and authority of the Church are preferred to these Witnesses, doth sufficiently appear in the <hi>Babylonian</hi> Doctrine. And if there were no more but that little booke, with that prety inscription <hi>De l'insuffisance De l'Escriture Sainte,</hi> it is enough to prove it. Cardinall <hi>Peron.</hi> And as to the corrupting thereof, the cor<g ref="char:EOLhyphen"/>ruptions of the old Latin Translation must not be corrected, though it bid <hi>Evertere Domum,</hi> instead of <hi>Everrere,</hi> for seeking of a penny; and though it say of <hi>John, Sic eum v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o manere donec veniam,</hi> in place of <hi>Si,</hi> though it be known a plaine lye, and that the very next words of the Text disprove the same. Nay, so farre must we be from corre<g ref="char:EOLhyphen"/>cting it, as that the vulgar <hi>Translation</hi> must be preferred by <hi>Catholikes,</hi> to the <hi>Bible</hi> in the own Originall tongue. And is it a small corrupting of Scriptures to make all, or the most part of <hi>Apocripha,</hi> of equall faith with the <hi>Canonicall Scriptures,</hi> contrary to the <hi>Fathers</hi> opinion, and decrees of antient Counsells? And what blasphemous corrupting of Scripture is it, to turn <hi>Dominus</hi> into <hi>Domina</hi> throughout the whole <hi>Psalms?</hi> And thus our Ladies <hi>Psalter</hi> was lately reprinted in <hi>Paris.</hi> Is not this to confound <hi>Christs</hi> Person with hers? and as for suppressing of the <hi>Scriptures,</hi> how many hundred years were the people kept in such blindnesse, as these Witnesses were almost unknowne, for the Laicks durst not, (being forbidden) and the most part of the Clergy either would or could not meddle with them.</p>
+            <pb n="4" facs="tcp:159491:4"/>
+            <p> Thus were these two Witnesses of Christ, (whereof himself saith, <hi>Scrutamini Scripturas, illae enim testimonium perhibent de me)</hi> these two Olives, bringing peace to all the Believers, even peace of conscience; these two Candlesticks, standing in the sight of God, and giving light to the Nations, represented by candlesticks, even in the very or<g ref="char:EOLhyphen"/>der of the <hi>Roman Masse.</hi> Thus were these two Witnesses (I say) dis<g ref="char:EOLhyphen"/>graced, corrupted and suppressed, (nay so suppressed and silenced, as he was brent for an Hereticke that durst presume to looke upon them) kept close in a strange tongue, that they might not be understood; <hi>Le<g ref="char:EOLhyphen"/>gends</hi> and lying wonders supplying their place in the Pulpits. And so did their <hi>Bodies lie in the streets of the great City;</hi> spiritually <hi>Sodome,</hi> for spirituall fornication, which is idolatry; spiritually <hi>Egypt,</hi> for bringing the Saints of God in bondage of humane Traditions, <hi>[Q<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>re oneramini ritibus?]</hi> So did these <hi>Bodies</hi> (I say) <hi>lie three dayes and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> halfe;</hi> that is, the halfe of that spirituall Week betweene <hi>Christ</hi> his first and second coming: and as dead carcasses indeed did the Scrip<g ref="char:EOLhyphen"/>tures then lie, without a monument, being laid open to all contempt, cared for almost by none, understood by as few; nay, no man durst call for them, for feare of punishment, as I have already said. And thus lying dead, as it were, without life or vigour (as the Law of God did, till it was revived in <hi>Joshuah's</hi> time) <hi>the inhabitants of the earth,</hi> that is, <hi>worldly men, rejoyced; and sent gifts to others,</hi> for joy that their fleshly liberty was now no more awed nor curbed by that two-edged sword: for they were now sure, that do what they would, their purse would procure them pardons from <hi>Babylon; Omnia vaenalia Rom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> so as men needed no more to look up to heaven, but down into their pur<g ref="char:EOLhyphen"/>ses to finde pardons. Nay, what needed any more seeking after hea<g ref="char:EOLhyphen"/>ven, or taking it by violence or fervency of zeale, when the pardons came and offered themselves at every mans doores? and divers spiri<g ref="char:EOLhyphen"/>tuall men vaunted themselves, that <hi>they neither understood old Testament nor new.</hi>
+            </p>
+            <p>Thus were these two <hi>Witnesses</hi> used in the second halfe of this spi<g ref="char:EOLhyphen"/>rituall Week; who in the first halfe thereof <hi>were clad in sackcloth,</hi> that is, preached repentance to all Nations, for the space of five or six hundred yeares after <hi>Christ, God</hi> making his <hi>Word,</hi> or <hi>VVitnesse,</hi> to tri<g ref="char:EOLhyphen"/>umph, riding upon the <hi>white horse</hi> in the time of the <hi>Primitive</hi> Church,
+<pb n="5" facs="tcp:159491:4"/> as that they overcame all that opposed themselves unto it, beating down every high thing, as <hi>Paul</hi> saith, excluding from <hi>heaven</hi> all that believe not therein: and strongly (with the spirituall fire thereof) convincing the stiffe-necked pride of unbelievers, as ever <hi>Moses</hi> or <hi>E<g ref="char:EOLhyphen"/>lias</hi> did, by the <hi>Plagues</hi> of <hi>Egypt,</hi> and famine, convince the rebellious Egyptians, and stiffe-necked Israelites.</p>
+            <p>Neither should it be enough to disgrace, corrupt, and suppresse them, but <hi>killed must they be</hi> at the last, to which purpose cometh forth <hi>censura generalis, ut mucrone censorio jugulare eas possit;</hi> and cutteth their throats indeed: for, the Authour ordaineth all Translations, but their owne, to be burnt, which is yet commonly practised: nay he professes he cometh not to correct, but to destroy them, control<g ref="char:EOLhyphen"/>ling, and calling every place of Scripture <hi>Hereticall,</hi> that dis<g ref="char:EOLhyphen"/>agreeth from their traditions (with almost as many foule words, and railing Epithetes, as the <hi>Cardinall</hi> bestowed on my <hi>Apologie)</hi> not ru<g ref="char:EOLhyphen"/>ling, nor interpreting Scripture by Scripture, but making their traditi<g ref="char:EOLhyphen"/>ons to be such a touch-stone for it, as he condemneth of Heresie, not only those places of Scripture that he citeth, but layeth the same ge<g ref="char:EOLhyphen"/>nerall condemnation upon all other the like places wheresoever they be written, in the Scriptures. And yet (praised be God) we begin now with our eyes, (as our Predecessors have done in some ages be<g ref="char:EOLhyphen"/>fore) to see these <hi>Witnesses</hi> rise againe, and shine in their former glory: God as it were, <hi>setting them up again upon their feet,</hi> and <hi>raising them to the Heavens</hi> in a triumphall cloud of glory, like <hi>Eliah</hi> his fiery Chari<g ref="char:EOLhyphen"/>ot: which exalting of the Gospell again, hath bred such an <hi>earth-quake,</hi> and alteration amongst many Nations; as a <hi>tenth part,</hi> or a good por<g ref="char:EOLhyphen"/>tion of these that were in subjection to <hi>that great City,</hi> to wit <hi>Babylon,</hi> are fallen from her; <hi>seaven thousand,</hi> that is, many thousands <hi>having been</hi> killed upon the occasion of that great alteration; and many o<g ref="char:EOLhyphen"/>thers converted to the feare of <hi>God, and giving glory to the God of Hea<g ref="char:EOLhyphen"/>ven.</hi> This now is one of the wayes, by which (I think) this place of Scripture may be lawfully and probably interpreted.</p>
+            <p>The other is more common, and seemeth more literally to agree with the Text. And this is to interpret, not <hi>the VVord of God,</hi> but the <hi>Preachers thereof,</hi> to be meant by these <hi>VVitnesses.</hi> Few they were that
+<pb n="6" facs="tcp:159491:5"/> first began to reveale the Man of <hi>sin,</hi> and discover his corruptions, and therefore well described by the manner of <hi>two</hi> Witnesses: <hi>Nam in ore duorum aut trium testium stabit omne verbum.</hi> And in no greater num<g ref="char:EOLhyphen"/>ber were they that begun this worke, then the greatnesse of the errand did necessarily require. They <hi>Prophesied</hi> in <hi>sackcloth,</hi> for they preached repentance. That divers of them were put to cruell deaths, is notori<g ref="char:EOLhyphen"/>ous to the world: and likewise that (in the person of their successors in Doctrine) <hi>they arose again, (Sanguis Martyrum est semen Ecclesiae,)</hi> and that in such power as is more then miraculous. For, where it is ac<g ref="char:EOLhyphen"/>counted in Scriptures, a miraculous worke of <hi>God</hi> wrought by his ho<g ref="char:EOLhyphen"/>ly Spirit, when the Apostle Saint <hi>Peter</hi> converted above three thou<g ref="char:EOLhyphen"/>sand in one day; these Witnesses I speake of, by the force of the same spirit, converted many mighty Nations in few yeares: who still con<g ref="char:EOLhyphen"/>tinue praising <hi>God</hi> that he hath delivered us from the tyranny of <hi>Anti<g ref="char:EOLhyphen"/>christ</hi> that raigneth over that great City, and with a full cry proclai<g ref="char:EOLhyphen"/>ming, <hi>Goe out of her my people, least ye be pertakers of her sins, and her plagues.</hi> Let therefore these Miracle-mongers that surfeit the world, and raise the price of paper daily, with setting forth old, though new guilded miracles, and legends of lies, let such (I say) consider of this great and wonderfull miracle indeed, and to their shame compare it to their paultry wares. Thus have I in two fashions delivered my conjecture, what I take to be meant by these two Witnesses, in the eleventh of the <hi>Apocalyps,</hi> there being no greater difference betweene them: In the one taking it to be the Word of <hi>God</hi> it self, in the other the Word of <hi>God</hi> too, but in the mouths of his Preachers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
